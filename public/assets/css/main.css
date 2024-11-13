@@ -1,0 +1,27 @@
+.live {
+    color: #f01111;
+}
+
+/* .block{
+    display: block;
+} */
+
+/* .up{
+    display:block;
+}
+
+.down{
+    display: none;
+} */
+
+.close{
+    display: none;
+}
+
+.open{
+    display: block;
+}
+
+.show{
+    display: block;
+}
