@@ -35,7 +35,7 @@ class PredictionsByDateController extends Controller
                 'status' => $game['status'],
                 'result' => $game['result'],
                 'prediction' => $game['prediction'],
-                'coefficient' => $game['coofficient'],
+                'coefficient' => $game['cooficient'],
                 'is_expired' => $game['is_expired'],
                 'odds' => $game['odds'],
             ]);
