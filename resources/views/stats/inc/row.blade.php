@@ -1,5 +1,5 @@
 <div class="mt-2">
-    <h1  class="font-bold"> Stats By Day</h1>
+    <h1  class="font-bold border border-sky-500"> Stats By Day</h1>
     <div class="flex bg-green-400 p-1 text-xs  font-bold"  style="width: <?php echo $wins * 2; ?>px">
         <span>wins:</span>
         <span>{{ $wins }}</span>
@@ -12,7 +12,7 @@
 
 
 <div class="mt-2">
-    <h1  class="font-bold">Stats By Federation</h1>
+    <h1  class="font-bold border border-sky-500">Stats By Federation</h1>
    
     <h2 class="text-xs font-bold mt-2">UEFA</h2>
 
@@ -94,7 +94,7 @@
 
 
 <div class="mt-2">
-    <h1  class="font-bold">Stats By Mounth</h1>
+    <h1  class="font-bold border border-sky-500">Stats By Mounth</h1>
     
     <div class="flex bg-green-400 p-1 text-xs  font-bold"  style="width: <?php echo $wins_mounth * 2; ?>px">
         <span>wins:</span>
